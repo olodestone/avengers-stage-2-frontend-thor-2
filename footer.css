@@ -1,31 +1,30 @@
 footer{
   width:100%;
-  margin:10%;
+  background-color:#000000;
 }
 
-.down{
+div{
   display:inline;
   color:#ffffff;
-  background-color: #000000;
+  background-color: black;
   padding: 1%;
   align-items: center;
   justify-content: center;
+  
  
 }
 
-.down ul{
-  display:inline-block;
-  width:100%;
-  text-align: center;
-}
-
-li{
+.box1{
   display:inline;
-  margin-right:8% ;
+  float:left;
 }
 
-li.bg{
-  margin-right: 5rem;
-  padding:none;
+.box2{
+  display:inline;
+  float:left;
+}
 
+.box3{
+  display: inline;
+  float: left;
 }
