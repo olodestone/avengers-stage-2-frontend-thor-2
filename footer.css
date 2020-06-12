@@ -1,0 +1,30 @@
+footer{
+  width:100%;
+  background-color:#000000;
+}
+
+div{
+  display:inline;
+  color:#ffffff;
+  background-color: black;
+  padding: 1%;
+  align-items: center;
+  justify-content: center;
+  
+ 
+}
+
+.box1{
+  display:inline;
+  float:left;
+}
+
+.box2{
+  display:inline;
+  float:left;
+}
+
+.box3{
+  display: inline;
+  float: left;
+}
